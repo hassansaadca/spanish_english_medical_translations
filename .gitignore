@@ -2,8 +2,5 @@
 .DS_Store
 data/*
 !data/README.md
-opus-mt-es-en-finetuned-es-to-en/*
-!opus-mt-es-en-finetuned-es-to-en/README.md
-opus-mt-es-en-finetuned-en-to-es/*
-!opus-mt-es-en-finetuned-en-to-es/README.md
-!data/UFAL/toy.es-en
+!data/UFAL/medical.toy
+
