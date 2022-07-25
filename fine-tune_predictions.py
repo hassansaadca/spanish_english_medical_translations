@@ -8,7 +8,7 @@ os.environ["WANDB_DISABLED"]="true"
 source_language = "es"
 target_language = "en"
 
-model_name = f"Helsinki-NLP/opus-mt-{source_language}-{target_language}"
+model_name = "ES-to-EN"
 tokenizer = MarianTokenizer.from_pretrained(model_name)
 model = MarianMTModel.from_pretrained(model_name)
 
@@ -25,7 +25,7 @@ with open('/home/ec2-user/data/UFAL/medical.test' , 'r') as f:
         translation = tokenizer.decode(tokenized_translation, skip_special_tokens=True)
 
     #write original text, translation, then actual target to new file
-        with open(f'es_to_en_baseline_translations.txt', 'a') as w:
+        with open(f'es_to_en_finetune_translations.txt', 'a') as w:
             w.write(f'{source}\t{translation}\t{target}\n')
         print(f'Current Row: {n}', end = '\r')
         n+=1
