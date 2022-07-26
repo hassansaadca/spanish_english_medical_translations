@@ -1,7 +1,0 @@
-.ipynb_checkpoints/
-.DS_Store
-data/*
-!data/README.md
-!data/UFAL/medical.toy
-ES-to-EN
-opus*
