@@ -3,4 +3,4 @@ sacremoses==0.0.53
 sentencepiece==0.1.96
 torch==1.11.0
 transformers==4.20.1
-git 
+numpy==1.23.1 
