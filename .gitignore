@@ -3,4 +3,5 @@
 data/*
 !data/README.md
 !data/UFAL/medical.toy
-
+ES-to-EN
+opus*
