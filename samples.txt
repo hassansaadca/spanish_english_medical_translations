@@ -1,0 +1,537 @@
+Example Number: 1
+----------------------
+Source:
+NO retire ninguno de los protectores de cierre de la aguja y NO presione el botón dosificador hasta que esté preparado para autoinyectarse la dosis de PegIntron.
+
+
+Target:
+DO NOT remove either of the needle caps and DO NOT push the dosing button in until you are ready to self -inject the PegIntron dose.
+
+
+Baseline Model:
+DO NOT remove any needle closure caps and DO NOT press the dosing button until you are ready to self-inject the PegIntron dose.
+
+
+Fine-tuned Model:
+Do NOT remove any needle caps and DO NOT push the dosing button until you are ready to self-inject the PegIntron dose.
+
+
+Google Translate:
+DO NOT remove any of the needle caps and DO NOT press the dose button until you are ready to self-inject your dose of PegIntron.
+
+
+Interpreter:
+Do NOT remove any of the protective caps from the needle and do NOT press on the dose  button until you are ready to self inject the PegIntron dose.
+
+====================================
+
+Example Number: 2
+----------------------
+Source:
+Neuropatía periférica (o parestesia)
+
+
+Target:
+Peripheral neuropathy (or paraesthesiae)
+
+
+Baseline Model:
+Peripheral neuropathy (or paraesthesia)
+
+
+Fine-tuned Model:
+Peripheral neuropathy (or paraesthesia)
+
+
+Google Translate:
+Peripheral neuropathy (or paresthesia)
+
+
+Interpreter:
+Peripheral neuropathy (or paresthesia)
+
+====================================
+
+Example Number: 3
+----------------------
+Source:
+¿Cuáles son las precauciones especiales que debo seguir?
+
+
+Target:
+What special precautions should I follow?
+
+
+Baseline Model:
+What special precautions should I follow?
+
+
+Fine-tuned Model:
+What special precautions should I follow?
+
+
+Google Translate:
+What special precautions should I follow?
+
+
+Interpreter:
+What special precautions should I take?
+
+====================================
+
+Example Number: 4
+----------------------
+Source:
+Los niños con fibrosis quística a quienes se les diagnostique la enfermedad temprano en la vida y comiencen tratamiento a temprana edad pueden tener mejor nutrición, crecimiento y funcionamiento de los pulmones.
+
+
+Target:
+Children with CF who are diagnosed early in life and start treatment at a young age may have better nutrition, growth, and lung function.
+
+
+Baseline Model:
+Children with cystic fibrosis who are diagnosed with the disease early in life and begin treatment at an early age may have better nutrition, growth, and functioning of the lungs.
+
+
+Fine-tuned Model:
+Children with cystic fibrosis who are diagnosed with the disease early in life and begin treatment at an early age may have better nutrition, growth, and lung function.
+
+
+Google Translate:
+Children with cystic fibrosis who are diagnosed early in life and begin treatment early in life may have better nutrition, growth, and lung function.
+
+
+Interpreter:
+Children with cystic fibrosis who were diagnosed early in life and start their treatment at an early age may have better nutrition, growth, and lung functionality.
+
+====================================
+
+Example Number: 5
+----------------------
+Source:
+Los tumores neuroblásticos que contienen muchas células diferenciadas, llamados ganglioneuroblastomas, pueden tener una diferenciación difusa que confiere un pronóstico muy favorable o que contienen nódulos de células no diferenciadas cuya histología, junto con la amplificación de MYCN determina el pronóstico.[70,71]
+
+
+Target:
+Neuroblastoma tumors containing many differentiating cells, termed ganglioneuroblastoma, can have diffuse differentiation conferring a very favorable prognosis or can have nodules of undifferentiated cells whose histology, along with MYCN amplification, determine prognosis.[70,71]
+
+
+Baseline Model:
+Neuroblastic tumors that contain many differentiated cells, called ganglioneuroblastomas, may have diffuse differentiation that confers a very favorable prognosis or contain non-differentiated cell nodules whose histology, along with MYCN amplification, determines prognosis.[70,71]
+
+
+Fine-tuned Model:
+Neuroblastic tumors that contain many differentiated cells, called ganglioneuroblastomas, may have a diffuse differentiation that confers a very favorable prognosis or contain undifferentiated cell nodules whose histology, along with MYCN amplification, determines prognosis.[70,71]
+
+
+Google Translate:
+Neuroblastic tumors that contain many differentiated cells, called ganglioneuroblastomas, may have diffuse differentiation that confers a very favorable prognosis or may contain nodules of undifferentiated cells whose histology, along with MYCN amplification, determines prognosis.[70,71]
+
+
+Interpreter:
+Neuroblastic tumors that contain many differentiated cells, called ganglioneuroblastomas, may have a diffuse differentiation that confers a very favorable prognosis, or may contain undifferentiated cell nodules whose histology, along with MYCN amplification, determines prognosis.[70,71]
+
+====================================
+
+Example Number: 6
+----------------------
+Source:
+Pregunte a su médico acerca de los posibles riesgos de usar este medicamento para tratar su condición.
+
+
+Target:
+Talk to your doctor about the possible risks of using this medication for your condition.
+
+
+Baseline Model:
+Ask your doctor about the possible risks of using this medicine to treat your condition.
+
+
+Fine-tuned Model:
+Ask your doctor about the possible risks of using this medication for your condition.
+
+
+Google Translate:
+Ask your doctor about the possible risks of using this medication to treat your condition.
+
+
+Interpreter:
+Ask your doctor about possible risks associated with using this medication to treat your condition.
+
+====================================
+
+Example Number: 7
+----------------------
+Source:
+Reacciones adversas graves notificadas en los ensayos clínicos
+
+
+Target:
+Serious adverse events reported in clinical trials
+
+
+Baseline Model:
+Serious adverse reactions reported in clinical trials
+
+
+Fine-tuned Model:
+Serious adverse reactions reported in clinical trials
+
+
+Google Translate:
+Reacciones adversas graves notificadas en los ensayos clínicos.
+
+
+Interpreter:
+Severe adverse reactions reported in clinical trials.
+
+====================================
+
+Example Number: 8
+----------------------
+Source:
+Las mujeres con cambios precancerosos causados por infección con el VPH pueden necesitar tratamiento adicional.
+
+
+Target:
+Women with precancerous changes caused by HPV infection may need further treatment.
+
+
+Baseline Model:
+Women with precancerous changes caused by HPV infection may need additional treatment.
+
+
+Fine-tuned Model:
+Women with precancerous changes caused by HPV infection may need additional treatment.
+
+
+Google Translate:
+Women with precancerous changes caused by HPV infection may need additional treatment.
+
+
+Interpreter:
+Women with precancerous changes caused by HPV infections may need additional treatment.
+
+====================================
+
+Example Number: 9
+----------------------
+Source:
+Debe tenerse cuidado en la manipulación de Temodal 2,5 mg/ ml polvo para solución para perfusión.
+
+
+Target:
+Caution must be exercised in handling Temodal 2.5 mg/ml powder for solution for infusion.
+
+
+Baseline Model:
+Care should be taken when handling Temodal 2.5 mg/ ml powder for solution for infusion.
+
+
+Fine-tuned Model:
+Care should be taken when handling Temodal 2.5 mg/ ml powder for solution for infusion.
+
+
+Google Translate:
+Care should be taken in handling Temodal 2.5 mg/ml powder for solution for infusion.
+
+
+Interpreter:
+Caution should be exercised when handling Temodal 2.5 mg/ ml powder for solution for infusion.
+
+====================================
+
+Example Number: 10
+----------------------
+Source:
+El nivel más alto de potasio en la orina puede deberse a:
+
+
+Target:
+Higher than normal urine potassium level may be due to:
+
+
+Baseline Model:
+The highest level of potassium in the urine may be due to:
+
+
+Fine-tuned Model:
+The higher level of potassium in the urine may be due to:
+
+
+Google Translate:
+The higher level of potassium in the urine may be due to:
+
+
+Interpreter:
+A higher level of potassium in the urine may be due to:
+
+====================================
+
+Example Number: 11
+----------------------
+Source:
+Si observa que las zonas afectadas de la piel empeoran, comuníqueselo inmediatamente al médico, especialmente si también experimenta signos generales de infección como fiebre o cansancio.
+
+
+Target:
+If you notice that already affected areas of your skin get worse, speak to a doctor immediately, especially if you also experience general signs of infection such as fever and tiredness.
+
+
+Baseline Model:
+If you notice that the affected areas of the skin get worse, tell your doctor immediately, especially if you also experience general signs of infection such as fever or tiredness.
+
+
+Fine-tuned Model:
+If you notice that the affected areas of the skin get worse, tell your doctor immediately, especially if you also experience general signs of infection such as fever or tiredness.
+
+
+Google Translate:
+If you notice that the affected skin areas get worse, tell your doctor immediately, especially if you also experience general signs of infection such as fever or tiredness.
+
+
+Interpreter:
+If you notice that the affected areas of the skin get worse, notify your doctor immediately, especially if you experience any symptoms of an infection such as fever or tiredness.
+
+====================================
+
+Example Number: 12
+----------------------
+Source:
+Si interrumpe el tratamiento con CYMBALTA No deje de tomar sus cápsulas sin el consejo de su médico aunque se encuentre mejor.
+
+
+Target:
+If you stop taking CYMBALTA Do not stop taking your capsules without the advice of your doctor even if you feel better.
+
+
+Baseline Model:
+If you stop taking CYMBALTA Do not stop taking your capsules without your doctor's advice even if you are feeling better.
+
+
+Fine-tuned Model:
+If you stop taking CYMBALTA Do not stop taking your capsules without the advice of your doctor even if you feel better.
+
+
+Google Translate:
+If you stop taking CYMBALTA Do not stop taking your capsules without your doctor's advice even if you feel better.
+
+
+Interpreter:
+If you decide you are ready to stop taking CYMBALTA, do not stop taking your capsules without consulting your doctor, even if you feel better.
+
+====================================
+
+Example Number: 13
+----------------------
+Source:
+Se debe controlar estrechamente a aquellos pacientes con enfermedades cardíacas tales como angina, insuficiencia cardíaca congestiva o arritmia por el empeoramiento de su situación clínica durante el tratamiento con AVONEX.
+
+
+Target:
+Patients with cardiac disease, such as angina, congestive heart failure or arrhythmia, should be closely monitored for worsening of their clinical condition during treatment with AVONEX.
+
+
+Baseline Model:
+Patients with heart disease such as angina, congestive heart failure or arrhythmia should be closely monitored for worsening their clinical situation during treatment with AVONEX.
+
+
+Fine-tuned Model:
+Patients with heart disease such as angina, congestive heart failure or arrhythmia should be closely monitored for worsening of their clinical condition during treatment with AVONEX.
+
+
+Google Translate:
+Patients with cardiac conditions such as angina, congestive heart failure, or arrhythmia should be closely monitored for worsening of their clinical condition during treatment with AVONEX.
+
+
+Interpreter:
+Patients with cardiac diseases such as angina, congestive cardiac failure, or arrhythmias must be closely monitored for worsening clinical conditions during their treatment with AVONEX.
+
+====================================
+
+Example Number: 14
+----------------------
+Source:
+Está bien reducir la cantidad de líquido que su hijo toma unas horas antes de acostarse.
+
+
+Target:
+It's OK to reduce the amount of fluid your child drinks a few hours before bedtime.
+
+
+Baseline Model:
+It's okay to reduce the amount of fluid your child takes a few hours before bedtime.
+
+
+Fine-tuned Model:
+It is okay to reduce the amount of fluid your child takes a few hours before bedtime.
+
+
+Google Translate:
+It's okay to reduce the amount of fluid your child drinks a few hours before bedtime.
+
+
+Interpreter:
+It is acceptable to decrease the amount of fluids that your child drinks a couple of hours before they go to bed.
+
+====================================
+
+Example Number: 15
+----------------------
+Source:
+La posología recomendada de 200- 400 mg dos veces al día se ajusta a la práctica médica actual y está respaldada por la literatura publicada presentada desde mediados del decenio de 1990 hasta la fecha.
+
+
+Target:
+The recommended posology of 200-400 mg ciprofloxacin twice daily is in line with current medical practice, supported by the published literature presented from the mid 1990’ s to date.
+
+
+Baseline Model:
+The recommended dosage of 200-400 mg twice daily is in line with current medical practice and is supported by published literature submitted from the mid-1990s to date.
+
+
+Fine-tuned Model:
+The recommended dosage of 200-400 mg twice daily is in accordance with current medical practice and is supported by published literature submitted from the mid-1990s to date.
+
+
+Google Translate:
+The recommended dosage of 200-400 mg twice daily is consistent with current medical practice and is supported by published literature submitted from the mid-1990s to the present.
+
+
+Interpreter:
+The recommended dosage of 200-400 mg twice a day is aligned with current medical practice and is supported by literature published since the mid-1990s.
+
+====================================
+
+Example Number: 16
+----------------------
+Source:
+En caso necesario, se puede administrar una segunda dosis de meloxicam después de 24 horas.
+
+
+Target:
+If required, a second administration of meloxicam can be given after 24 hours.
+
+
+Baseline Model:
+If necessary, a second dose of meloxicam may be given after 24 hours.
+
+
+Fine-tuned Model:
+If necessary, a second dose of meloxicam can be given after 24 hours.
+
+
+Google Translate:
+If necessary, a second dose of meloxicam can be administered after 24 hours.
+
+
+Interpreter:
+If needed, a second dose of meloxicam may be administered after 24 hours.
+
+====================================
+
+Example Number: 17
+----------------------
+Source:
+Reacciones anafilácticas e hipersensibilidad Se han notificado reacciones anafilácticas y de hipersensibilidad de otro tipo en menos del 1% de los pacientes después de la administración de proteínas por vía intravenosa.
+
+
+Target:
+Anaphylactic reactions and hypersensitivity Anaphylactic and other hypersensitivity reactions have been reported in fewer than 1% of patients following the intravenous administration of proteins to patients.
+
+
+Baseline Model:
+Anaphylactic reactions and hypersensitivity Anaphylactic and other hypersensitivity reactions have been reported in less than 1% of patients following intravenous protein administration.
+
+
+Fine-tuned Model:
+Anaphylactic reactions and hypersensitivity Anaphylactic and other hypersensitivity reactions have been reported in less than 1% of patients following intravenous protein administration.
+
+
+Google Translate:
+Anaphylactic and hypersensitivity reactions Anaphylactic and other hypersensitivity reactions have been reported in less than 1% of patients following intravenous administration of protein.
+
+
+Interpreter:
+Anaphylactic reactions and hypersensitivity: Anaphylactic reactions and other forms of hypersensitivity have been reported in fewer than 1% of patients after administering intravenous proteins.
+
+====================================
+
+Example Number: 18
+----------------------
+Source:
+La primera perfusión debe durar 90 minutos pero las siguientes perfusiones pueden administrarse durante un periodo inferior si la primera perfusión se ha tolerado bien.
+
+
+Target:
+The first infusion should last 90 minutes, but subsequent infusions may be given over a shorter period if the first infusion has been well tolerated.
+
+
+Baseline Model:
+The first infusion should last 90 minutes but the following infusions may be given for a shorter period if the first infusion has been well tolerated.
+
+
+Fine-tuned Model:
+The first infusion should last 90 minutes but the following infusions may be given for a shorter period if the first infusion has been well tolerated.
+
+
+Google Translate:
+The first infusion should last 90 minutes but subsequent infusions may be given for a shorter period if the first infusion was well tolerated.
+
+
+Interpreter:
+The first infusion should take 90 minutes, but the following infusions may take less time if the first one was well tolerated.
+
+====================================
+
+Example Number: 19
+----------------------
+Source:
+Ni los pacientes ni los médicos sabían qué medicamento tomaba cada paciente.
+
+
+Target:
+Neither the patient nor the doctor knew which medicine the patient was receiving.
+
+
+Baseline Model:
+Neither the patients nor the doctors knew what medicine each patient was taking.
+
+
+Fine-tuned Model:
+Neither the patients nor the doctors knew which medicine each patient was taking.
+
+
+Google Translate:
+Ni los pacientes ni los médicos sabían qué medicamento tomaba cada paciente.
+
+
+Interpreter:
+Neither the patients nor doctors knew what medication each patient was taking.
+
+====================================
+
+Example Number: 20
+----------------------
+Source:
+Si conserva OptiSet en un lugar fresco, se debe sacar de 1 a 2 horas antes de la inyección para alcanzar temperatura ambiente.
+
+
+Target:
+If your OptiSet is in cool storage, take it out 1 to 2 hours before you inject to allow it to warm up to room temperature.
+
+
+Baseline Model:
+If OptiSet is stored in a cool place, it should be removed 1 to 2 hours before injection to reach room temperature.
+
+
+Fine-tuned Model:
+If OptiSet is stored in a cool place, it should be removed 1 to 2 hours before injection to reach room temperature.
+
+
+Google Translate:
+If you keep OptiSet in a cool place, it should be taken out 1 to 2 hours before injection to reach room temperature.
+
+
+Interpreter:
+If you store OptiSet in a cool place, it should be taken out 1 to 2 hours before injection to allow it to reach room temperature.

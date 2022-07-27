@@ -104,7 +104,6 @@ assert len(val_dataset) == len(val_sources)
 model_name = model_checkpoint.split("/")[-1]
 
 
-
 #https://huggingface.co/docs/transformers/main_classes/trainer
 args = Seq2SeqTrainingArguments(
     f"{model_name}-finetuned-{SOURCE_LANGUAGE}-to-{TARGET_LANGUAGE}",

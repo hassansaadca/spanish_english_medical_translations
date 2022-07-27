@@ -1,5 +1,0 @@
-test translation of source in line 95 of es_to_en_baseline_translations.txt. vocab not in baseline model. Hopefully will be in fine tuned model.
-
-
-Lines to have interpreter translate manually:
-[4, 21, 24, 31, 32, 34, 37, 39, 41, 49, 51, 63, 74, 76, 86, 95, 101, 114, 122, 125, 2001]
