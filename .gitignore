@@ -2,4 +2,4 @@ ES-to-EN
 opus*
 data/*
 .ipynb_checkpoints/
-
+.DS_Store
