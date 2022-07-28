@@ -16,11 +16,11 @@ dash_app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 app = dash_app.server
 dash_app.title = 'ES-EN Medical Translation'
 
-model = MarianMTModel.from_pretrained('./web_interface/model_config')
-tokenizer = AutoTokenizer.from_pretrained('Helsinki-NLP/opus-mt-es-en')
 
+model = MarianMTModel.from_pretrained('../ES-to-EN')
+tokenizer = AutoTokenizer.from_pretrained('../ES-to-EN')
 
-############################# LAYOUT ###########################################
+# ############################ LAYOUT ###########################################
 
 dash_app.layout = html.Div(className='container',
              style={'backgroundColor': 'rgb(245, 245, 245)', 'minWidth': '100%', 'width': '100%', 'height':'1000px'},
@@ -166,7 +166,7 @@ def process_and_predict(query):
     translation = tokenizer.decode(tokenized_translation, skip_special_tokens=True)
     return translation
 
-############################## CALLBACKS #######################################
+# ############################# CALLBACKS #######################################
 
 @dash_app.callback(
     #[
@@ -200,5 +200,6 @@ def search_result(button_search, search_term):
             ])
 
 ###############################################################################################################################
+
 if __name__ == '__main__':
-    dash_app.run_server(host = '10.150.0.2', port = 5000, debug=True) #internal gcp ip, link goes to external
+    dash_app.run_server(host = '0.0.0.0', port = 5000, debug=True) #internal gcp ip, link goes to external
